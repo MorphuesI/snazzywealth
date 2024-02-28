@@ -40,6 +40,13 @@
             <a class="nav-link" href="login.php">User Log In</a>
           </li>
 
+          <li class="nav-item">
+            <a class="nav-link" href="distributor/registration.php">Distributor Sign Up</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link" href="distributor/login.php">Distributor Log In</a>
+          </li>
+
             <li class="nav-item">
             <a class="nav-link" href="admin/">Admin</a>
           </li>

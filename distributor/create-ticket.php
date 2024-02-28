@@ -107,8 +107,8 @@ echo "<script>alert('Ticket Genrated');</script>";
                                                 <option> Select your Task Type</option>
                                                 <option value="billing">Billing</option>
                                                 <option value="help">Help</option>
-                                                <option value="option3">Option 3</option>
-                                                <option value="option4">Option 4</option>
+                                                <option value="ot3">Option 3</option>
+                                                <option value="ot4">Option 4</option>
                                             </select>
                                            </div>
                                     </div>
